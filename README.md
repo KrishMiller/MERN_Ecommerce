@@ -4,7 +4,7 @@
 
 As a freelancer, I want to meet through others such as Skype.
 
-As you know, fee of this website is expensive.
+As you know, fee of Freelancer.com is expensive.
 
 If you contact me via Skype, we can feel free and discuss more details.
 
