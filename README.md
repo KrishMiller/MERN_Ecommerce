@@ -3,9 +3,13 @@
 ## My Information
 
 As a freelancer, I want to meet through others such as Skype.
+
 As you know, fee of this website is expensive.
+
 If you contact me via Skype, we can feel free and discuss more details.
+
 My SkypeId: live:.cid.dbea7ffea851b522
+
 Looking forward your message.
 
 ## Description
