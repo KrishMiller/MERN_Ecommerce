@@ -1,6 +1,6 @@
 # MERN Ecommerce
 
-## My Information
+## My Suggestion
 
 As a freelancer, I want to meet through others such as Skype.
 
